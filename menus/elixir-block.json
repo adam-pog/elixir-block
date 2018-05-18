@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle elixir-block",
+        "command": "elixir-block:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "elixir-block",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "elixir-block:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
