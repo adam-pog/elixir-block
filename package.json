@@ -5,6 +5,9 @@
   "description": "A short description of your package",
   "keywords": [
   ],
+  "activationCommands": {
+    "atom-workspace": "toggle"
+  },
   "repository": "https://github.com/atom/elixir-block",
   "license": "MIT",
   "engines": {
