@@ -2,17 +2,15 @@
   "name": "elixir-block",
   "main": "./lib/elixir-block",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Highlight matching elixir block keywords",
   "keywords": [
   ],
-  "activationCommands": {
-    "atom-workspace": "toggle"
-  },
-  "repository": "https://github.com/atom/elixir-block",
+  "repository": "https://github.com/adam-pog/elixir-block",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "language-elixir": "0.22.0"
   }
 }
