@@ -1,7 +1,7 @@
 {
   "name": "elixir-block",
   "main": "./lib/elixir-block",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Highlight matching elixir block keywords",
   "keywords": [],
   "repository": "https://github.com/adam-pog/elixir-block",
