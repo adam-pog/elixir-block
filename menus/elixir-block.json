@@ -12,13 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "elixir-block",
-          "submenu": [
-            {
-              "label": "Toggle",
-              "command": "elixir-block:toggle"
-            }
-          ]
+          "label": "elixir-block"
         }
       ]
     }
