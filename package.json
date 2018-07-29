@@ -1,7 +1,7 @@
 {
   "name": "elixir-block",
   "main": "./lib/elixir-block",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Highlight matching elixir block keywords",
   "keywords": [
     "elixir",
