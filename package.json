@@ -1,9 +1,17 @@
 {
   "name": "elixir-block",
   "main": "./lib/elixir-block",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Highlight matching elixir block keywords",
-  "keywords": ["elixir", "highlight", "blocks", "block", "match", "matching", "keywords"],
+  "keywords": [
+    "elixir",
+    "highlight",
+    "blocks",
+    "block",
+    "match",
+    "matching",
+    "keywords"
+  ],
   "repository": "https://github.com/adam-pog/elixir-block",
   "license": "MIT",
   "engines": {
