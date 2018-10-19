@@ -16,7 +16,7 @@ Atom package to support highlighting matching elixir blocks
 
 NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 
-** How to develop atom packages locally **
+**How to develop atom packages locally**
 1. Run `apm develop <package_name>` (i.e. `apm develop elixir-block`)
 2. Go to directory where package was linked
 3. `atom -d` (this starts the package in developer mode which will use your local version of the package)
